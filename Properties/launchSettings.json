@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Azure_Tech_Assignment (Production - 8 hours)": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Production"
+      }
+    },
+    "Azure_Tech_Assignment (Test Mode - 5 minutes)": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

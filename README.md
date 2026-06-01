@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure VM Autoscheduler
 
 A production-ready console application that automatically manages Azure Virtual Machines based on configurable power management rules.
@@ -260,3 +261,6 @@ This project is provided as-is for evaluation purposes.
 ## Support
 
 For issues or questions regarding this application, please refer to the implementation documentation or contact the development team.
+=======
+# Azure_Tech-Assignment
+>>>>>>> c0bee5020c1a84cd7b42baf4dad02bc8dbb9c40d
